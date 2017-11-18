@@ -1,4 +1,4 @@
-function test{
+function test(){
   debugger
   console.log("Hello")  
 }
